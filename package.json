@@ -21,6 +21,9 @@
   "license": "Apache-2.0",
   "scripts": {
     "test": "standard",
-    "start": "node src/index.js"
+    "start": "node src/index.js" 
+  }
+  "engines": {
+    "node": "12.16.x"
   }
 }
