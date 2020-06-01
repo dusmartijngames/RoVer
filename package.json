@@ -19,11 +19,12 @@
   "repository": "https://github.com/evaera/RoVer",
   "author": "evaera",
   "license": "Apache-2.0",
+  "engines": {
+    "node": "12.16.x"
+  },
   "scripts": {
     "test": "standard",
     "start": "node src/index.js" 
   }
-  "engines": {
-    "node": "12.16.x"
-  }
+ 
 }
